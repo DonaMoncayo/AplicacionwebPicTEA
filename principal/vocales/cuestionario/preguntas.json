@@ -1,0 +1,48 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "A",
+        "incorrecta1": "O",
+        "incorrecta2": "I",
+        "incorrecta3": "U",
+        "imagen": "./../images/va.png"
+       
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "U",
+        "incorrecta1": "O",
+        "incorrecta2": "I",
+        "incorrecta3": "E",
+        "imagen": "./../images/vu.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "O",
+        "incorrecta1": "A",
+        "incorrecta2": "I",
+        "incorrecta3": "U",
+        "imagen": "./../images/vo.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "I",
+        "incorrecta1": "O",
+        "incorrecta2": "A",
+        "incorrecta3": "U",
+        "imagen": "./../images/vi.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "E",
+        "incorrecta1": "O",
+        "incorrecta2": "I",
+        "incorrecta3": "U",
+        "imagen": "./../images/ve.png"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Foca",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Sapo",
+        "incorrecta3": "Ñu",
+        "imagen": "./../images/foca.png"
+       
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Sapo",
+        "incorrecta1": "Pato",
+        "incorrecta2": "Ñu",
+        "incorrecta3": "Gato",
+        "imagen": "./../images/sapo.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Gato",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Sapo",
+        "incorrecta3": "Conejo",
+        "imagen": "./../images/gato.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Ñu",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Sapo",
+        "incorrecta3": "Gato",
+        "imagen": "./../images/nu.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Pato",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Sapo",
+        "incorrecta3": "Conejo",
+        "imagen": "./../images/pato.png"
+    }
+]

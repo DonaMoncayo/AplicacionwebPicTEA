@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+
+.main_objeto .container .barco:hover{
+    padding: 10px 10px;
+}
+
+
+.salir{
+    position: absolute;
+    top: 50px;
+    left: 1100px;
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+}
+
+#barco{
+    top: -40px;
+    position: relative;
+    justify-content: center;
+    border-radius: 10px ;/*redondear los bordes de la imagen*/
+    object-fit: cover;
+    box-shadow: 0 5px 5px rgba(1,23,46,0.6);
+}
+
+#casa{
+    top: -40px;
+    display: none;
+    position: relative;
+    border-radius: 20px ;
+    justify-content: center;
+    object-fit: cover;
+    box-shadow: 0 5px 5px rgba(1,23,46,0.6);
+}
+
+#dado{
+    top: -40px;
+    display: none;
+    position: relative;
+    border-radius: 20px ;
+    justify-content: center;
+    object-fit: cover;
+    box-shadow: 0 5px 5px rgba(1,23,46,0.6);
+}
+
+#jarra{
+    top: -40px;
+    display: none;
+    position: relative;
+    border-radius: 20px ;
+    justify-content: center;
+    object-fit: cover;
+    box-shadow: 0 5px 5px rgba(1,23,46,0.6);
+}
+
+#hoja{
+    top: -40px;
+    display: none;
+    position: relative;
+    border-radius: 20px ;
+    justify-content: center;
+    object-fit: cover;
+    box-shadow: 0 5px 5px rgba(1,23,46,0.6);
+}
+
+
+.audio{
+    position: absolute;
+    top: 180px;
+    left: -280px;
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+    /*box-shadow: 0 5px 5px rgba(1,23,46,0.6);
+    border-radius: 20px*/
+}
+
+
+.container {
+    /*justify-content: space-between;*/
+    cursor: pointer;
+    position: absolute;
+    top: 475px;
+}
+
+.container .button{
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+}
+
+.container .objetos:hover{
+    padding: 10px 10px;
+}
+
+.examen{
+    position: absolute;
+    top: 450px;
+    left: 1000px;
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+}

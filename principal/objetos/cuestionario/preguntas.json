@@ -1,0 +1,48 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Casa",
+        "incorrecta1": "Jarra",
+        "incorrecta2": "Hoja",
+        "incorrecta3": "Barco",
+        "imagen": "./../images/casa.png"
+       
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Dado",
+        "incorrecta1": "Jarra",
+        "incorrecta2": "Hoja",
+        "incorrecta3": "Barco",
+        "imagen": "./../images/dado.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Barco",
+        "incorrecta1": "Jarra",
+        "incorrecta2": "Hoja",
+        "incorrecta3": "Dado",
+        "imagen": "./../images/barco.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Hoja",
+        "incorrecta1": "Jarra",
+        "incorrecta2": "Casa",
+        "incorrecta3": "Dado",
+        "imagen": "./../images/hoja.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Jarra",
+        "incorrecta1": "Casa",
+        "incorrecta2": "Hoja",
+        "incorrecta3": "Dado",
+        "imagen": "./../images/jarra.png"
+    }
+]

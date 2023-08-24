@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../index/css/style.css">
+    <script language="Javascript" src="js/form.js"></script>
+   
+    <script src="../index/js/script.js" crossorigin="anonymous"></script>
+    <title>Registro</title>
+</head>
+<body>
+
+    <header id="header">
+        <div class="container__header">
+            <div class="logo">
+                <a href="../index/index.html#"><img src="../index/images/imgco.svg" alt="logo"></a>
+            </div>
+            <div class="container__nav">
+                <nav id="nav">
+                    <ul>
+                        <li><a href="../index/index.html#" class="select">INICIO</a></li>
+                        <li><a href="#" class="select">NOSOTROS</a></li>
+                        <li><a href="#"class="select">MISION</a></li>
+                        <li><a href="../index/index.html#footer" class="select">CONTACTO</a></li>
+                    </ul>
+                </nav>
+
+                
+                <div class="btn__menu" id="btn_menu"><i class="fas fa-bars"></i></div>
+
+            </div>
+
+        </div>
+    </header>
+
+    <br><br>
+    <form name="form" action="form.php" method="post" >
+        <section class="form-register">
+            
+            <h4>Formulario Registro</h4>
+            <div id="first" style="display: block;">
+                <input class="controls" type="text" name="namen" id="namen" placeholder="Ingrese el nombre del niño" required>
+                <input class="controls" type="number" name="age" id="age" placeholder="Ingrese la edad del niño" required>
+                <input class="controls" type="text" name="genero" id="genero" placeholder="Ingrese el genero del niño" required>
+                <input class="controls" type="text" name="namep" id="namep" placeholder="Ingrese el nombre del tutor" required>
+                <input class="controls" type="email" name="mail" id="mail" placeholder="Ingrese un correo" required>
+                <input class="controls" type="number" name="num" id="num" placeholder="Ingrese un numero de telefono" required>
+                <button class="botons" type="button" onclick="mostrar()" id="sig">Siguiente</button>
+            </div>
+            <div id="next"  style="display: none;">
+                <input class="controls" type="text" name="usuario" id="usuario" placeholder="Ingrese un usuario" required>
+                <input class="controls" type="password" name="pass" id="pass" placeholder="Ingrese una contraseña" required>
+                <button class="controls" type="button" onclick="mostrar2()" id="ant">Anterior</button>
+            
+            <p>Estoy de acuerdo con <a href="#">Terminos y condiciones</a></p>
+            <input class="botons"  type="submit" value="Registrar" onclick="mostrar3()">
+            </div>
+        </section>
+    </form>
+    <br><br>
+</body>
+</html>

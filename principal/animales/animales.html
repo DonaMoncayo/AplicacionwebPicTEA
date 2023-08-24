@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animals.css">
+    <script language="Javascript" src="js/animals.js"></script>
+    <script src="../index/js/script.js" crossorigin="anonymous"></script>
+    <title>Animales</title>
+</head>
+
+<body class="col">
+    <header id="header">
+        <div class="container__header">
+            <div class="logo">
+                <img src="../../index/images/img.jfif" alt="">
+            </div>
+            <div class="container__nav">
+                <nav id="nav">
+                    <ul>
+                        
+                        <li><a href="../main.php" class="select">Regresar al menú</a></li>
+                        
+                    </ul>
+                </nav>
+                <div class="btn__menu" id="btn_menu"><i class="fas fa-bars"></i></div>
+            </div>
+        </div>
+    </header>
+
+    <!--IMAGEN DE LA VOCAL-->
+    <div class="main_animales">
+        <br><br><br>
+        <div id="foca">
+            <img src="images/foca.png" height="300px" >
+        <button class="audio" onclick="foc.play();">
+             <img src="images/audio.png" width="150px" alt="">
+        </button>
+        </div>
+
+        <div id="gato">
+            <img src="images/gato.png" height="300px">
+            <button class="audio" onclick="gat.play();">
+                <img src="images/audio.png" width="150px" alt="">
+           </button>
+        </div>
+
+        <div id="nu">
+            <img src="images/nu.png" height="300px">
+            <button class="audio" onclick="niu.play();">
+                <img src="images/audio.png" width="150px" alt="">
+           </button>
+        </div>
+
+        <div id="pato">
+            <img src="images/pato.png" height="300px">
+            <button class="audio" onclick="pat.play();">
+                <img src="images/audio.png" width="150px" alt="">
+           </button>
+        </div>
+
+        <div id="sapo">
+            <img src="images/sapo.png" height="300px">
+            <button class="audio" onclick="sap.play();">
+                <img src="images/audio.png" width="150px" alt="">
+           </button>
+        </div>
+        
+    </div>
+    
+
+    <!--BOTÓN DE ANIMALES-->
+    <div class="container">
+        <button class="button" onclick="foca();">
+            <img class="animal" src="images/foca.png" width="80px" alt="">
+        </button>
+
+        <button class="button" onclick="gato();">
+            <img class="animal" src="images/gato.png" width="80px" alt="">
+        </button>
+
+        <button class="button" onclick="nu();">
+            <img class="animal" src="images/nu.png" width="80px" alt="">
+        </button>
+
+        <button class="button" onclick="pato();">
+            <img class="animal" src="images/pato.png" width="80px" alt="">
+        </button>
+
+        <button class="button" onclick="sapo();">
+            <img class="animal" src="images/sapo.png" width="80px" alt="">
+        </button>
+        
+    </div>
+
+    <a href="./cuestionario/index.html ">
+        <button class="examen" id="examen">
+            <img src="images/examen.png" height="120px" >
+        </button>  
+    </a>
+   
+   
+
+    
+</body>
+</html>
+
+

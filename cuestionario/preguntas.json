@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "E",
+        "incorrecta1": "I",
+        "incorrecta2": "A",
+        "incorrecta3": "U",
+        "imagen": "./imagenes/vocales/ve.png"
+       
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "O",
+        "incorrecta1": "A",
+        "incorrecta2": "E",
+        "incorrecta3": "I",
+        "imagen": "./imagenes/vocales/vo.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "I",
+        "incorrecta1": "A",
+        "incorrecta2": "E",
+        "incorrecta3": "U",
+        "imagen": "./imagenes/vocales/vi.png"
+    },
+
+
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Casa",
+        "incorrecta1": "Hoja",
+        "incorrecta2": "Perro",
+        "incorrecta3": "Pie",
+        "imagen": "./imagenes/objetos/casa.png"
+    },
+
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Jarra",
+        "incorrecta1": "Hoja",
+        "incorrecta2": "Perro",
+        "incorrecta3": "Pie",
+        "imagen": "./imagenes/objetos/jarra.png"
+    },
+
+
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Pato",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Sapo",
+        "incorrecta3": "Conejo",
+        "imagen": "./imagenes/animales/pato.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Gato",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Sapo",
+        "incorrecta3": "Conejo",
+        "imagen": "./imagenes/animales/gato.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Limpiar",
+        "incorrecta1": "Jugar",
+        "incorrecta2": "Cocinar",
+        "incorrecta3": "Ganar",
+        "imagen": "./imagenes/Verbos/Limpiar.png",
+        "objectFit": "scale-down"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Aplaudir",
+        "incorrecta1": "Jugar",
+        "incorrecta2": "Cocinar",
+        "incorrecta3": "Ganar",
+        "imagen": "./imagenes/Verbos/Aplaudir.png",
+        "objectFit": "scale-down"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Correr",
+        "incorrecta1": "Jugar",
+        "incorrecta2": "Cocinar",
+        "incorrecta3": "Ganar",
+        "imagen": "./imagenes/Verbos/Correr.png",
+        "objectFit": "scale-down"
+    }
+   
+]

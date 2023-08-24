@@ -1,0 +1,48 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Pera",
+        "incorrecta1": "Kiwi",
+        "incorrecta2": "Manzana",
+        "incorrecta3": "Sandia",
+        "imagen": "./../images/pera.png"
+       
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Limon",
+        "incorrecta1": "Kiwi",
+        "incorrecta2": "Manzana",
+        "incorrecta3": "Sandia",
+        "imagen": "./../images/limon.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Sandia",
+        "incorrecta1": "Kiwi",
+        "incorrecta2": "Manzana",
+        "incorrecta3": "Pera",
+        "imagen": "./../images/sandia.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Kiwi",
+        "incorrecta1": "Cereza",
+        "incorrecta2": "Manzana",
+        "incorrecta3": "Sandia",
+        "imagen": "./../images/kiwi.png"
+    },
+    {
+        "categoria": "",
+        "pregunta": "", 
+        "respuesta": "Cereza",
+        "incorrecta1": "Kiwi",
+        "incorrecta2": "Manzana",
+        "incorrecta3": "Sandia",
+        "imagen": "./../images/cereza.png"
+    }
+]
